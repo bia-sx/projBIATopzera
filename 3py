@@ -1,0 +1,3 @@
+def crocodilo(p1):
+    print ( tamanho = len(p1) )
+crocodilo(43565656767888)
